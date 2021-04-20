@@ -1,0 +1,43 @@
+body{
+    background-color: #B2FFD9;
+}
+
+.background_index {
+  box-shadow: 1px 1px 5px #ccc;
+  background-color: whitesmoke;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.form_index{
+    width: 500px;
+    margin: auto;
+    padding-top: 5%;
+}
+
+.centro_index{
+  color: aqua;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.img_turtle_index{
+  width: 200px;
+}
+
+.function_index > label{
+  width: 100%;
+  display: block;
+}
+
+.function_index > input{
+  width: 100%;
+  border-radius: 5px;
+  outline: 0;
+  height: 30px;
+  padding: 5px;
+}
+
+.function_index{
+  margin-bottom: 10px;
+}
