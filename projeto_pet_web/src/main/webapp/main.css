@@ -22,13 +22,22 @@ body{
 }
 
 .img_turtle_index{
-  width: 200px;
+  width: 200px;  
 }
 
 .function_index > label{
   width: 100%;
   display: block;
 }
+
+.function_index > button{
+  width: 100%;
+  background-color: rgb(231, 28, 96);
+  border-radius: 30px;
+  padding: 15px;
+  border-style: groove;
+}
+
 
 .function_index > input{
   width: 100%;
