@@ -46,5 +46,9 @@ body{
 
 
 .button_acess{
-  background-color: #5539d1;
+  width: 100%;
+  color: chartreuse;
+  text-align: center;
+  box-shadow: 1px 1px 5px #ccc;
+
 }
