@@ -30,12 +30,6 @@ body{
   display: block;
 }
 
-.function_index > button{
-  background-color: rgb(231, 28, 96);
-  width: 100%;
-  border-radius: 30px;
-  padding: 15px;
-}
 
 
 .function_index > input{
@@ -48,4 +42,9 @@ body{
 
 .function_index{
   margin-bottom: 10px;
+}
+
+
+.button_acess{
+  background-color: #5539d1;
 }
