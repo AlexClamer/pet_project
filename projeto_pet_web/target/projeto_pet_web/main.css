@@ -25,11 +25,11 @@ body{
   width: 200px;  
 }
 
+
 .function_index > label{
   width: 100%;
   display: block;
 }
-
 
 
 .function_index > input{
@@ -44,11 +44,18 @@ body{
   margin-bottom: 10px;
 }
 
-
-.button_acess{
-  width: 100%;
-  color: chartreuse;
+.button {
+  border: black 5px;
+  color: white;
+  padding: 15px 32px;
   text-align: center;
-  box-shadow: 1px 1px 5px #ccc;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 100%;
+  border-radius:30px;
+}  
 
-}
+.button1 {background-color: #B2FFD9;} 
